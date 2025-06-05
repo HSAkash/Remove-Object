@@ -47,8 +47,8 @@ https://github.com/user-attachments/assets/89eaaa36-3b0f-4eed-92e2-b9b81541e6e2
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/object-remover.git
-cd object-remover
+git clone https://github.com/HSAkash/Remove-Object.git
+cd Remove-Object
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
